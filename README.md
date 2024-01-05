@@ -5,12 +5,15 @@ To write a program to find the maximum of a list of numbers.
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-1.	Get the list of marks as input
-2.	Use the sort() function or max() function or use the for loop to find the maximum mark.
-3.	Return the maximum value
+## Step1:
+Get the list of marks as input
+## Step2:
+Use the sort() function or max() function or use the for loop to find the maximum mark.
+## Step3:
+Return the maximum value
 ## Program:
 
-i)	# To find the maximum of marks using the list method sort.
+## i)	 To find the maximum of marks using the list method sort.
 ```
 ''' 
 Program to mark the maximum of marks using the list method sort
@@ -23,7 +26,7 @@ def max_marks(marks):
 
 ```
 
-ii)	# To find the maximum marks using the list method max().
+## ii)	 To find the maximum marks using the list method max().
 ```
 ''' 
 Program to find the maximum marks using the list method max().
@@ -36,7 +39,7 @@ def max_marks(marks):
 
 ```
 
-iii) # To find the maximum marks without using builtin functions.
+## iii)  To find the maximum marks without using builtin functions.
 ```
 ''' 
 Program to the maximum marks without using builtin functions.
